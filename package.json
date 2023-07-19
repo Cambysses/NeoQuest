@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "grid-engine": "^2.32.0",
-    "phaser": "^3.24.1"
+    "phaser": "^3.24.1",
+    "phaser3-rex-plugins": "^1.60.3"
   }
 }
