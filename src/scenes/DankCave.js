@@ -1,4 +1,4 @@
-import Level from './LevelScene';
+import Level from './Level';
 
 export default class DankCave extends Level {
 
