@@ -1,6 +1,6 @@
-import LevelScene from './LevelScene';
+import Level from './LevelScene';
 
-export default class Overworld extends LevelScene {
+export default class Overworld extends Level {
 
   constructor() {
     super({ key: 'Overworld' });

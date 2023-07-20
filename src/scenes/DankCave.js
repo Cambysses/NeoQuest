@@ -1,6 +1,6 @@
-import LevelScene from './LevelScene';
+import Level from './LevelScene';
 
-export default class DankCave extends LevelScene {
+export default class DankCave extends Level {
 
   constructor() {
     super({ key: 'DankCave' });
